@@ -7,7 +7,7 @@ hr{
 	border:2.1px solid #16a810e6;
 }
 h3{
-	color:color:rgb(231, 232, 233);
+	color:rgb(231, 232, 233);
 }
 .top, .nav, .introduction, .features, .gallery, .clients, .enquiry, footer{
 	box-sizing:border-box;
@@ -193,7 +193,7 @@ h3{
 	display:inline-block;
 	float:left;
 	overflow:hidden;
-	margin-left:5%;
+	margin-left:6%;
 	box-sizing:border-box;
 	border:3px solid grey;
 	border-radius:3px;
@@ -272,3 +272,22 @@ h3{
 .alert1 #non-alert, .alert2 #non-alert, .alert3 #non-alert{
 	color:#16a810e6;
 }
+footer .dev a{
+	text-decoration:none;
+    color:rgb(231, 232, 233);
+	
+}
+footer .dev a:hover{
+	text-decoration:none;
+    color:#85ea45e6;
+	
+}
+footer .dev a:focus{
+	text-decoration:none;
+    color:#85ea45e6;
+}
+footer .dev a:active{
+	text-decoration:none;
+    color:#2dc17ae6;
+}
+
