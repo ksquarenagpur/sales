@@ -91,6 +91,8 @@ header .nav a:hover{
 	border:3px solid grey;
 	border-radius:5px;
 	transition:tranform;
+	max-width:721px;
+	
 }
 .gallery img:hover{
 	box-sizing:border-box;
@@ -109,6 +111,7 @@ header .nav a:hover{
 	border:3px solid grey;
 	border-radius:5px;
 	transition:tranform;
+	max-width:500px;
 }
 .clients .client img:hover{
 	box-sizing:border-box;
