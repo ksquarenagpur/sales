@@ -218,7 +218,7 @@ h3{
 	border:0px solid grey;
 	border-radius:0px;
 	opacity:0;
-	visible:none;
+	visibility:none;
 	
 }
 .alert1 #alert{
